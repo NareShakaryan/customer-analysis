@@ -5,6 +5,13 @@ This project analyzes customer transaction and demographic data to uncover patte
 The analysis is performed using Python with pandas, seaborn, and matplotlib for data cleaning, visualization, and insight generation.
 
 ---
+## Dataset Source
+
+This project uses the [E-Commerce Sales Data 2024](https://www.kaggle.com/datasets/datascientist97/e-commerece-sales-data-2024?select=customer_details.csv) from Kaggle.  
+
+You can access and download the dataset directly from Kaggle.
+
+---
 
 ##  Project Structure
 

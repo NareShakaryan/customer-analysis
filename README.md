@@ -15,9 +15,8 @@ You can access and download the dataset directly from Kaggle.
 
 ##  Project Structure
 
-├── customer_analysis.ipynb # Jupyter notebook with full EDA and insights
-├── README.md # Project overview and documentation
-├── data/ # (Optional) Folder containing raw data files
+─ customer_analysis.ipynb 
+─ README.md 
 
 ---
 
